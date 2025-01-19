@@ -1,3 +1,4 @@
-documents/*
-database/*
+database/
+__pycache__/
 .env
+notebook.ipynb
