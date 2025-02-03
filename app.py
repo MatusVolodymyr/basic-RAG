@@ -2,7 +2,6 @@ from fastapi import FastAPI, UploadFile, File, HTTPException
 from pydantic import BaseModel
 from typing import List
 import database
-import file_loader
 import embedding
 import generation_model
 import asyncio
